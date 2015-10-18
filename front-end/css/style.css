@@ -1,0 +1,45 @@
+/* Structure */
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+
+body {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.5;
+  text-align: center;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+form {
+  padding: 2em 0;
+}
+
+input {
+  line-height: 18px;
+  font-size: 16px;
+}
+
+
+span { 
+  padding: 0 5px;
+  border-radius: 5px;
+}
+
+.blue   { color: blue;   }
+.orange { color: orange; }
+.white  { color: white;  }
+.green  { color: green;  }
+.bronze { color: gold;   }
+.purple { color: purple; }
+.red    { color: red;    }
+.white  { background: black; }
